@@ -1,0 +1,25 @@
+.thumbnail img {
+    width: 100%;
+}
+
+#bigThumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#body-landing {
+    background-image: url(https://images.unsplash.com/photo-1442849914809-0df6c377974f?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=43371bdb698039bd71fd348d85edd262);
+    background-size: cover;
+}
+
+#landing-content {
+    margin: auto;
+    width: 60%;
+}
